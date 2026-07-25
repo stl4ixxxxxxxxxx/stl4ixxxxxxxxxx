@@ -1,9 +1,9 @@
 # 💫 About Me:
-😎 I make plugins for PocketMine-MP and PowerNukkit X<br>✨
+😎 I make plugins for PocketMine-MP and PowerNukkit X<br>✨J'ai plus rien à dire la vérité et oui jsuis français
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://privateeheh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/opj1337) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://privateeheh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aucunh) 
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
